@@ -4,6 +4,23 @@ Miwok App
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 Made under Udacity's Android Basics: Multi-screen Apps course (Android Basics Nanodegree).
 
+**Features**
+====================================
+
+1. Plays the pronunciation(_Audio_) of the displayed words to help the user learn the correct pronunciation of the language.
+2. Follows Material design guidelines for a high-quality digital experience.
+3. Uses Custom ArrayAdapter with listView.
+
+<h3> Screens:<h3/>
+
+<img src="screenshots/Screenshot1.png" height="500">&nbsp;
+<img src="screenshots/Screenshot2.png" height="500">&nbsp;
+<img src="screenshots/Screenshot3.png" height="500">&nbsp;
+<img src="screenshots/Screenshot4.png" height="500">&nbsp;
+<img src="screenshots/Screenshot5.png" height="500">&nbsp;
+
+
+
 Pre-requisites
 --------------
 
